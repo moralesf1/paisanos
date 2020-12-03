@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/paisanos/static/css/main.13067fe1.chunk.css",
+    "main.js": "/paisanos/static/js/main.3603808c.chunk.js",
+    "main.js.map": "/paisanos/static/js/main.3603808c.chunk.js.map",
+    "runtime-main.js": "/paisanos/static/js/runtime-main.3e76c16f.js",
+    "runtime-main.js.map": "/paisanos/static/js/runtime-main.3e76c16f.js.map",
+    "static/js/2.f5345737.chunk.js": "/paisanos/static/js/2.f5345737.chunk.js",
+    "static/js/2.f5345737.chunk.js.map": "/paisanos/static/js/2.f5345737.chunk.js.map",
+    "static/js/3.8dce02c9.chunk.js": "/paisanos/static/js/3.8dce02c9.chunk.js",
+    "static/js/3.8dce02c9.chunk.js.map": "/paisanos/static/js/3.8dce02c9.chunk.js.map",
+    "index.html": "/paisanos/index.html",
+    "static/css/main.13067fe1.chunk.css.map": "/paisanos/static/css/main.13067fe1.chunk.css.map",
+    "static/js/2.f5345737.chunk.js.LICENSE.txt": "/paisanos/static/js/2.f5345737.chunk.js.LICENSE.txt",
+    "static/media/The_Simpsons_Logo.816fe84b.png": "/paisanos/static/media/The_Simpsons_Logo.816fe84b.png",
+    "static/media/professor-frink.4cbc4ee0.png": "/paisanos/static/media/professor-frink.4cbc4ee0.png",
+    "static/media/Layout.scss": "/paisanos/static/media/the-simpsons-wallpaper.0683b2f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e76c16f.js",
+    "static/js/2.f5345737.chunk.js",
+    "static/css/main.13067fe1.chunk.css",
+    "static/js/main.3603808c.chunk.js"
+  ]
+}
