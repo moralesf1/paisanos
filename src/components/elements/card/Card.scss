@@ -1,0 +1,12 @@
+.custom-card {
+  margin-bottom: 15px;
+  .card {
+    height: 100%;
+    padding-top: 10px;
+    .card-img-top {
+      width: 100%;
+      max-height: 200px;
+      object-fit: contain;
+    }
+  }
+}

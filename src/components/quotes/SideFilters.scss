@@ -1,0 +1,20 @@
+.side-filter-container {
+  background-color: #F8F9FC;
+  min-height: calc(100vh - 70px);
+  .side-filter-row {
+    position: sticky;
+    top: 15px;
+    .list-title {
+      font-weight: bold;
+    }
+    .characters-filter {
+      margin-left: 10px;
+      cursor: pointer;
+      display: inline-block;
+      color: #085394;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

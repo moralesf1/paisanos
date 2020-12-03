@@ -1,0 +1,40 @@
+@import "../../../scss/utils";
+
+
+.layout-container {
+  .custom-navbar {
+    background-color: #f8f9fa57;
+    .custom-collapse {
+      .nav-link {
+        color: #333;
+        margin-right: 20px;
+        &:hover {
+          color: #111;
+        }
+      }
+    }
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .layout-container {
+    .custom-navbar {
+      .custom-collapse {
+        padding: 0 15px;
+        background: rgba(255,255,255,.8);
+        position: absolute;
+        top: 70px;
+        z-index: 1;
+        left: 0;
+        right: 0;
+        .nav-link {
+          margin-right: 0;
+          padding: 15px 0;
+        }
+        .custom-nav-button {
+          width: 100%;
+        }
+      }
+    }
+  }
+}

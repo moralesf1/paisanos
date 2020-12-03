@@ -1,0 +1,12 @@
+@import "../../../scss/utils";
+
+
+.search-quotes-input {
+  min-width: unset;
+}
+
+@include media-breakpoint-up(md) {
+  .search-quotes-input {
+    min-width: 380px;
+  }
+}

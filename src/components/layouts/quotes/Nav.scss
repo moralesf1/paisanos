@@ -1,0 +1,10 @@
+@import "../../../scss/utils";
+
+@include media-breakpoint-down(md) {
+  .custom-search-collapse {
+    padding-top: 15px;
+    .custom-search-button {
+      width: 100%;
+    }
+  }
+}
